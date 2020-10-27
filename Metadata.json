@@ -1,0 +1,20 @@
+{
+    "Author": "amargo",
+    "ContentSize": 6801,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/virtual-machine-scheduled-scaling/master/VirtualMachineScheduledScaling.ps1",
+    "DownloadCount": 1024,
+    "Id": "Virtual-Machine-Scheduled-8330dcb5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 106,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-8-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Resizing a specific Resource Group Azure VM according to a schedule using Azure Automation. Autoscaling based on a schedule allows you to scale your solution according to predictable resource demand.",
+    "Title": "Virtual Machine Scheduled Scaling",
+    "UpdatedDate": "2018-8-22T00:00:00",
+    "Url": "https://github.com/azureautomation/virtual-machine-scheduled-scaling",
+    "UserTags": "Scheduled Task, Windows Azure Virtual Machines, Scaling"
+}
